@@ -6,3 +6,7 @@ h1 {
   font-size: 80px;
   text-transform: uppercase;
 }
+
+.container {
+  height: 100vh;
+}
