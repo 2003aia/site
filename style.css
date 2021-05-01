@@ -1,1 +1,8 @@
-body {background-color: yellow;}
+body {
+   background-color: yellow;
+}
+
+h1 {
+  font-size: 80px;
+  text-transform: uppercase;
+}
