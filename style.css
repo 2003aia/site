@@ -8,6 +8,10 @@ h1 {
   text-transform: uppercase;
 }
 
+.medias {
+  justify-content: space-between;
+}
+
 .about {
   height: 100vh;
   background-color: yellow;
