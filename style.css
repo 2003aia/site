@@ -16,12 +16,12 @@ h1 {
 
 .medias {
   height: 2em;
-  background-color: #003cb3;
+  background-color: pink;
 }
 
 .nav {
   color: #ccccff;
   text-decoration: none;
+  text-transform: uppercase;
   text-shadow: 2px 2px 3px grey;
-  font-size: 24px;
 }
