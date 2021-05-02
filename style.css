@@ -12,19 +12,16 @@ h1 {
 .about {
   height: 100vh;
   background-color: yellow;
-  justify-content: space-between;
   align-items: center;
 }
 
 .medias {
-  height: 100px;
+  height: 2em;
   background-color: #003cb3;
-  align-items: center
 }
 
 .nav {
   color: #ccccff;
   text-decoration: none;
   text-shadow: 2px 2px 3px grey
-  
 }
