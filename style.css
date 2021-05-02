@@ -12,7 +12,6 @@ h1 {
 .about {
   height: 100vh;
   background-color: yellow;
-  align-items: center;
 }
 
 .medias {
@@ -23,5 +22,6 @@ h1 {
 .nav {
   color: #ccccff;
   text-decoration: none;
-  text-shadow: 2px 2px 3px grey
+  text-shadow: 2px 2px 3px grey;
+  font-size: 24px;
 }
