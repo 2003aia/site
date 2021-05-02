@@ -11,17 +11,18 @@ h1 {
 
 .about {
   height: 100vh;
-  background-color: yellow;
+  background-color: #000033;
 }
 
 .medias {
   height: 2em;
-  background-color: pink;
+  background-color: grey;
 }
 
 .nav {
   color: #ccccff;
   text-decoration: none;
   text-transform: uppercase;
+  text-align: center;
   text-shadow: 2px 2px 3px grey;
 }
