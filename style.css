@@ -12,6 +12,7 @@ h1 {
 .about {
   height: 100vh;
   background-color: #000033;
+  color: #e6e6ff;
 }
 
 .medias {
@@ -23,6 +24,5 @@ h1 {
   color: #ccccff;
   text-decoration: none;
   text-transform: uppercase;
-  text-align: center;
   text-shadow: 2px 2px 3px grey;
 }
