@@ -6,5 +6,6 @@ h1 {
 }
 
 .container {
-  height: 100px;
+  height: 100vh;
+  
 }
