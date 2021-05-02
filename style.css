@@ -1,4 +1,11 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Freckle+Face&display=swap');
+</style>
 
+body {
+  font-family: 'Freckle Face', cursive;
+  font-family: 'Roboto', sans-serif;
+}
 
 h1 {
   font-size: 80px;
