@@ -13,6 +13,7 @@ h1 {
   height: 100vh;
   background-color: #000033;
   color: #e6e6ff;
+  align-items: center;
 }
 
 .medias {
