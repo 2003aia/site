@@ -20,8 +20,8 @@ h1 {
 }
 
 .nav-link {
-  color: #ccccff;
+  color: #e8fdff;
   text-decoration: none;
   text-transform: uppercase;
-  text-shadow: 2px 2px 3px grey;
+  text-shadow: 2px 2px 8px grey;
 }
