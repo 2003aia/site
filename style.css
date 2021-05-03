@@ -16,11 +16,10 @@ h1 {
 }
 
 .medias {
-  height: 2em;
   background-color: #00001a;
 }
 
-.nav {
+.nav-link {
   color: #ccccff;
   text-decoration: none;
   text-transform: uppercase;
