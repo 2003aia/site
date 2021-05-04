@@ -13,9 +13,6 @@ h1 {
   background-color: #000033;
   color: #e6e6ff;
 }
-btw {
-  height: 35hv;
-}
 
 .medias {
   background-color: #00001a;
@@ -27,6 +24,6 @@ btw {
   text-transform: uppercase;
 }
 
-.abt {
+.ab {
   height: 100vh;
 }
