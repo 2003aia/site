@@ -12,7 +12,9 @@ h1 {
 .about {
   background-color: #000033;
   color: #e6e6ff;
-  height: 100vh;
+}
+btw {
+  height: 35hv;
 }
 
 .medias {
