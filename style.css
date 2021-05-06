@@ -10,6 +10,10 @@ h1 {
   text-transform: uppercase;
 }
 
+ab {
+  margin: 50%;
+}
+
 .about {
   background-color: #000033;
   color: #e6e6ff;
