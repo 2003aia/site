@@ -2,7 +2,6 @@
 body {
   font-family: 'Freckle Face', cursive;
   font-family: 'Pangolin', cursive;
-  margin: 0;
 }
 
 h1 {
@@ -25,6 +24,3 @@ h1 {
   text-transform: uppercase;
 }
 
-.ab {
-  height: 100vh;
-}
