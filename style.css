@@ -5,13 +5,9 @@ body {
 }
 
 h1 {
-  padding-top: 50px;
+  padding-top: 20em;
   font-family: 'Freckle Face', cursive;
   text-transform: uppercase;
-}
-
-ab {
-  padding: 100px;
 }
 
 .about {
