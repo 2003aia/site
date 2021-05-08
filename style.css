@@ -7,6 +7,7 @@ body {
 h1 {
   font-family: 'Freckle Face', cursive;
   text-transform: uppercase;
+  padding-top: 50%;
 }
 
 .ab {
