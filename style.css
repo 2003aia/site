@@ -8,11 +8,28 @@ h1 {
   font-family: 'Freckle Face', cursive;
   text-transform: uppercase;
   padding-top: 35%;
-  animation-duration: 3s;
-  animation-name: sl;
 }
 
-@keyframes slide {
+.sll {
+  animation-name: sll;
+  animation-duration: 5s;
+}
+.slr {
+  animation-name: slr;
+  animation-duration: 7s;
+}
+
+@reyframes sll {
+  from {
+  margin-right: 100%;
+  width: 100%;
+}
+  to {
+  margin-left: 0;
+  width: 100%;
+}
+}
+@keyframes slr {
   from {
   margin-left: 100%;
   width: 100%;
