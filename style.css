@@ -8,8 +8,8 @@ h1 {
   font-family: 'Freckle Face', cursive;
   text-transform: uppercase;
   padding-top: 35%;
-  animation-duration: 5s;
-  animation-name: slide;
+  animation-duration: 3s;
+  animation-name: sl;
 }
 
 @keyframes slide {
@@ -27,6 +27,8 @@ h1 {
   background-color: #000033;
   color: #e6e6ff;
   height: 100vh;
+  animation-duration: 5;
+  animation-name: slide;
 }
 
 .bgg {
