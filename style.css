@@ -8,6 +8,19 @@ h1 {
   font-family: 'Freckle Face', cursive;
   text-transform: uppercase;
   padding-top: 35%;
+  animation-duration: 5s;
+  animation-name: slide;
+}
+
+@keyframes slide {
+  from {
+  margin-left: 100%;
+  width: 100%;
+}
+  to {
+  margin-left: 0;
+  width: 100%;
+}
 }
 
 .about {
