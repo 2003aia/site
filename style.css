@@ -14,22 +14,8 @@ h1 {
   animation-name: sll;
   animation-duration: 5s;
 }
-.slr {
-  animation-name: slr;
-  animation-duration: 7s;
-}
 
 @keyframes sll {
-  from {
-  margin-right: 100%;
-  width: 100%;
-}
-  to {
-  margin-right: 0;
-  width: 100%;
-}
-}
-@keyframes slr {
   from {
   margin-right: 100%;
   width: 100%;
