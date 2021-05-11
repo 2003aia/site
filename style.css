@@ -19,9 +19,9 @@ h1 {
   animation-duration: 7s;
 }
 
-@reyframes sll {
+@keyframes sll {
   from {
-  margin-right: 100%;
+  margin-left: 100%;
   width: 100%;
 }
   to {
@@ -31,11 +31,11 @@ h1 {
 }
 @keyframes slr {
   from {
-  margin-left: 100%;
+  margin-right: 100%;
   width: 100%;
 }
   to {
-  margin-left: 0;
+  margin-right: 0;
   width: 100%;
 }
 }
