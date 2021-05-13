@@ -54,6 +54,6 @@ h1 {
 .img1 {
   background: url(20210512_201029.jpg);
   max-width: 100%;
-  height: auto;
+  max-height: 100%;
 }
 
