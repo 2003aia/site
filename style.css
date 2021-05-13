@@ -4,11 +4,36 @@ body {
   font-family: 'Pangolin', cursive;
 }
 
+.medias {
+  background-color: #00001a;
+}
+
+.nav-link {
+  color: #e8fdff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.about {
+  background-color: #000033;
+  color: #e6e6ff;
+  height: 100vh;
+}
+
 h1 {
   font-family: 'Freckle Face', cursive;
   text-transform: uppercase;
   padding-top: 35%;
 }
+
+.bgg {
+  background-color: #b5b9ff;
+}
+
+.txtc {
+  color: black;
+}
+
 
 .sll {
   animation-name: sll;
@@ -26,27 +51,5 @@ h1 {
 }
 }
 
-.about {
-  background-color: #000033;
-  color: #e6e6ff;
-  height: 100vh;
-}
 
-.bgg {
-  background-color: #b5b9ff;
-}
-
-.txtc {
-  color: black;
-}
-
-.medias {
-  background-color: #00001a;
-}
-
-.nav-link {
-  color: #e8fdff;
-  text-decoration: none;
-  text-transform: uppercase;
-}
 
