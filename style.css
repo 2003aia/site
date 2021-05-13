@@ -8,6 +8,7 @@ h1 {
   font-family: 'Freckle Face', cursive;
   text-transform: uppercase;
   padding-top: 35%;
+  font-size: 40px;
 }
 
 .sll {
@@ -21,7 +22,7 @@ h1 {
   width: 100%;
 }
   to {
-  margin-left: 0;
+  margin-left: 0 auto;
   width: 100%;
 }
 }
