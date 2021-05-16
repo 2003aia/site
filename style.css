@@ -51,6 +51,9 @@ h1 {
 }
 }
 
+.bb {
+  border-bottom: solid, 2px, grey;
+}
 .img1 {
   background: url("20210513_132958.jpg");
   max-width: 100%;
