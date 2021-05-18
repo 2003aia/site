@@ -18,6 +18,7 @@ body {
   background-color: #000033;
   color: #e6e6ff;
   height: 100vh;
+  border-bottom: solid 2px #eee;
 }
 
 h1 {
@@ -49,10 +50,6 @@ h1 {
   margin-left: 0;
   width: 100%;
 }
-}
-
-.bb {
-  border-bottom: solid 2px grey;
 }
 
 img {
